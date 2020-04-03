@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<muestras>
+	<Host>
+		<name>localhost</name>
+		<port>8080</port>		
+	</Host>
+	<baseDeDatos>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://localhost:3306/users</url>
+		<userBD>admin</userBD>
+		<passwdBD>2Lb2s4d2l14c1</passwdBD>
+	</baseDeDatos>
+</muestras>
+
+<!--
+<muestras>
+	<Host>
+		<name>localhost</name>
+		<port>8080</port>		
+	</Host>
+	<baseDeDatos>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://172.30.100.38:3306/users</url>
+		<userBD>admin</userBD>
+		<passwdBD>2Lb2s4d2l14c1</passwdBD>
+	</baseDeDatos>
+</muestras>
+-->
