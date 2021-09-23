@@ -1,7 +1,7 @@
 <%-- 
     Document   : Cambio_Contrasena
     Created on : 25-jul-2013, 15:19:28
-    Author     : jorge.correa
+    Author     : jorge.correaj
 --%>
 <%
     //Recuperando los parámetros de la sesión actual.
